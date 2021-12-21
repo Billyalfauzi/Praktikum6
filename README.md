@@ -1,6 +1,7 @@
 # Praktikum6
 ## Codingan Python
 ![Gambar 1](screenshoot/ss2.png)
+
 Membuat sebuah dictionary kosong yang akan diinput data.
 
 Lalu membuat perulangan dan keterangan untuk pilihan menu yang akan dijalankan program.
